@@ -1,51 +1,62 @@
-# Amazon_Sales_Dashboard.pbix
-
 # 📊 Power BI Dashboard Projects
 
-## 📌 Overview
+## 🚀 Overview
+
 This repository contains multiple Power BI dashboards showcasing data analysis and visualization skills.
 
 ---
 
 ## 📊 Sales Dashboard
-![Dashboard](dashboard1.png)
 
-- Sales by segment and region  
-- Monthly trends  
-- Category performance  
+![Sales Dashboard](Sales-Dashboard1.png)
 
----
+### 🔍 Key Insights
 
-## 📊 Chocolate Sales Dashboard
-![Dashboard](dashboard2.png)
-
-- Country-wise sales  
-- Product comparison  
-- Sales trends  
+* Sales by segment and region
+* Monthly trends
+* Category performance
 
 ---
 
-## 📊 Amazon India Dashboard
-![Dashboard](dashboard3.png)
+## 🍫 Chocolate Sales Dashboard
 
-- State-wise sales  
-- Category insights  
-- Payment analysis  
+![Chocolate Dashboard](Chocolate-Dashboard.png)
 
----
+### 🔍 Key Insights
 
-## 🛠 Tools Used
-- Power BI  
-- Excel  
-- Data Visualization  
+* Country-wise sales
+* Product comparison
+* Sales trends
 
 ---
 
-## 🚀 How to Use
-1. Download `.pbix` file  
-2. Open in Power BI Desktop  
+## 🛒 Amazon India Dashboard
+
+![Amazon Dashboard](Amazon-dashboard.png)
+
+### 🔍 Key Insights
+
+* State-wise sales
+* Category insights
+* Payment analysis
 
 ---
 
-## 💡 About Me
+## 🛠️ Tools Used
+
+* Power BI
+* Excel
+* Data Visualization
+
+---
+
+## 📌 How to Use
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+
+---
+
+## 👨‍💻 About Me
+
 Aspiring Data Analyst skilled in SQL, Python, Excel, and Power BI.
